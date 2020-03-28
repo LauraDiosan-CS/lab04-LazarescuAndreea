@@ -1,0 +1,8 @@
+﻿  film.cpp
+  main.cpp
+C:\Users\lazar\source\repos\lab5\qwertyuidfghj\main.cpp(31,14): warning C4018: '<': signed/unsigned mismatch
+  repo.cpp
+  service.cpp
+  test.cpp
+  Generating Code...
+  qwertyuidfghj.vcxproj -> C:\Users\lazar\source\repos\lab5\Debug\qwertyuidfghj.exe
